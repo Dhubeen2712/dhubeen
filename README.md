@@ -3,19 +3,19 @@
 Mechatronics Engineering student at Thiagarajar College of Engineering with a strong interest in robotics, embedded systems, and automation. Passionate about developing practical engineering solutions using microcontrollers and continuously learning emerging technologies. A proactive team player with proven leadership, communication, and problem-solving skills.
 
 ## LEADERSHIP & EXPERIENCE ##
-### Vice President, Student Council, Thiagarajar College of Engineering
+Vice President, Student Council, Thiagarajar College of Engineering
 
-### Joint Secretary, Anglophile Club, Thiagarajar College of Engineering
+Joint Secretary, Anglophile Club, Thiagarajar College of Engineering
 
-### First Pilot, NCC Unit, Thiagarajar College of Engineering
+First Pilot, NCC Unit, Thiagarajar College of Engineering
 
-### Successfully completed IUC Camp
+Successfully completed IUC Camp
 
-### Represented the college at the Army attachement National Camp, Secunderabad
+Represented the college at the Army attachement National Camp, Secunderabad
 
-### First Prize – SSB Format Lecturette Competition
+First Prize – SSB Format Lecturette Competition
 
-### Served as Overall Senior during CATC Camp
+Served as Overall Senior during CATC Camp
 
 ## PROJECTS ##
 
@@ -31,24 +31,32 @@ Designed a microcontroller-based system to monitor and display refrigerator temp
 
 ## SOFTWARE & TOOLS ##
 
-### MATLAB
+MATLAB
 
-### Autodesk Fusion 360
+Autodesk Fusion 360
 
-### Keil uVision
+Keil uVision
 
-### Thonny IDE
+Thonny IDE
 
-### SOFT SKILLS
+SOFT SKILLS
 
-### Leadership
+Leadership
 
-### Teamwork
+Teamwork
 
-### Planning & Organization
+Planning & Organization
 
-### Communication
+Communication
 
-### Problem Solving
+Problem Solving
+
 Adaptability
+
 Self-Confidence
+
+## connect with me: ##
+gmail:dhubeen27122gmail.com
+
+## Linked in profile: ##
+https://www.linkedin.com/in/dhubeen-a-268563392
