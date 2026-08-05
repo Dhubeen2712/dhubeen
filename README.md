@@ -2,20 +2,23 @@
 
 Mechatronics Engineering student at Thiagarajar College of Engineering with a strong interest in robotics, embedded systems, and automation. Passionate about developing practical engineering solutions using microcontrollers and continuously learning emerging technologies. A proactive team player with proven leadership, communication, and problem-solving skills.
 
-LEADERSHIP & EXPERIENCE
-President, Student Council, Thiagarajar College of Engineering
+##LEADERSHIP & EXPERIENCE ##
+Vice President, Student Council, Thiagarajar College of Engineering
+
 Joint Secretary, Anglophile Club, Thiagarajar College of Engineering
+
 First Pilot, NCC Unit, Thiagarajar College of Engineering
 Successfully completed IUC Camp
-Represented the college at the National Camp, Secunderabad
-Served as Overall Senior during CATC Camp
+Represented the college at the Army attachement National Camp, Secunderabad
 First Prize – SSB Format Lecturette Competition
-PROJECTS
+Served as Overall Senior during CATC Camp
+
+## PROJECTS ##
+
 Smart Bus Tracking System
 
 Developed a smart transportation system to monitor bus location and passenger crowd density, enabling efficient crowd management and real-time tracking.
 
-Tech Stack: Arduino, GPS Module, Ultrasonic/IR Sensors, Embedded C
 
 Refrigerator Temperature Display Unit
 
