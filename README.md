@@ -39,7 +39,7 @@ Keil uVision
 
 Thonny IDE
 
-SOFT SKILLS
+## SOFT SKILLS ##
 
 Leadership
 
